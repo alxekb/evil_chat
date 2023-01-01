@@ -6,7 +6,7 @@
     "actioncable": "^5.2.3",
     "normalize.css": "^8.0.1",
     "postcss-nested": "^4.1.2",
-    "webpack": "^4.39.1"
+    "webpack": "^5.75.0"
   },
   "devDependencies": {
     "@arkweid/lefthook": "^0.6.3",
@@ -22,7 +22,7 @@
     "stylelint-config-prettier": "^5.2.0",
     "stylelint-config-standard": "^18.3.0",
     "stylelint-prettier": "^1.1.1",
-    "webpack-cli": "^3.3.6",
+    "webpack-cli": "^5.0.1",
     "webpack-dev-server": "^3.7.2"
   }
 }
